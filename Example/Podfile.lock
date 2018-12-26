@@ -1,0 +1,16 @@
+PODS:
+  - TSDemo (0.1.0)
+
+DEPENDENCIES:
+  - TSDemo (from `../`)
+
+EXTERNAL SOURCES:
+  TSDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSDemo: ebf4132e1b3d355d61165ee61cb10a040bfe0e94
+
+PODFILE CHECKSUM: 462bf19221f6f6572454fc1cf4468e713f46b028
+
+COCOAPODS: 1.5.3

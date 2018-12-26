@@ -1,0 +1,6 @@
+framework module TSDemo {
+  umbrella header "TSDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

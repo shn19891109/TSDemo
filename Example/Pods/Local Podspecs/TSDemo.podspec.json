@@ -1,0 +1,22 @@
+{
+  "name": "TSDemo",
+  "version": "0.1.0",
+  "summary": "A short description of TSDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suhaonan/TSDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suhaonan": "1058216614@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/suhaonan/TSDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TSDemo/Classes/**/*"
+}
